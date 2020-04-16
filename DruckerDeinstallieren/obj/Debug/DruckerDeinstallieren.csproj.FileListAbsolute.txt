@@ -1,0 +1,15 @@
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\bin\Debug\DruckerDeinstallieren.exe.config
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\bin\Debug\DruckerDeinstallieren.exe
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\bin\Debug\DruckerDeinstallieren.pdb
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.csprojResolveAssemblyReference.cache
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\MainWindow.g.cs
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\App.g.cs
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren_MarkupCompile.cache
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren_MarkupCompile.lref
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\MainWindow.baml
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.g.resources
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.Properties.Resources.resources
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.csproj.GenerateResource.cache
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.csproj.CoreCompileInputs.cache
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.exe
+c:\users\ch.mueller\source\repos\DruckerDeinstallieren\DruckerDeinstallieren\obj\Debug\DruckerDeinstallieren.pdb
